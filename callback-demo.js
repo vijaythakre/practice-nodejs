@@ -18,5 +18,4 @@ fs.readFile("sample.txt",function(err,content){
             }
         });
     }
-
 });
